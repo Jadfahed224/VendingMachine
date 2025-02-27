@@ -1,0 +1,27 @@
+Bag,BBQ Chips,0.8,10,0,3
+Bag,Salty Chips,0.8,6,1,6
+Bottle,Water,0.3,7,5,5
+
+/*
+        if(Character.isDigit(input.charAt(0))) {
+            if(input.length() > 1 && input.charAt(1) == '.' && Integer.parseInt(String.valueOf(input.charAt(0))) > 1) {
+                for(int i = 2; i < input.length(); i++) {
+                    if(!Character.isDigit(input.charAt(i))) {
+                        return false;
+                    }
+                }
+            }
+            //addBalance(input, balance);
+            //System.out.println("Balance added. Current balance: " + balance.getBalance());
+        } */
+
+           /*
+            public static void checkAdminCommand(String input, VendingMachine vm) throws IOException {
+                switch (input) {
+                    case "": break;
+                    case "add": addItemAsAdmin(); break;
+                    case "remove": removeItemAsAdmin(); break;
+                    case "list": vm.displayStock(); break;
+                    default: System.out.println("Invalid command.");
+                }
+            } */
